@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmed Saeed Baowazeer
+# Ahmed Saeed Bawzir
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Flutter+Developer;AI+Workflow+Engineer;Prompt+Engineering+Expert;Vibe+Coding+Specialist;Building+Smart+Apps+With+AI" />
 
