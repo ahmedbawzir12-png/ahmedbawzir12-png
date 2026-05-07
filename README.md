@@ -110,11 +110,12 @@ const ahmed = {
 
 ---
 
-### 🛠 Tech Stack
+### 🛠### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,javascript,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
 </p>
+
 
 ---
 
