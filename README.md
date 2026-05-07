@@ -55,6 +55,9 @@ const ahmed = {
 
   funFact:
     "Sometimes one smart prompt saves hours of coding 😄"
+    "Good vibe coding is knowing what to automate and what to build yourself ⚡",
+    "The best workflows are the ones that make complex systems feel simple 🤖",
+
 };
 ```
 
