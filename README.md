@@ -1,152 +1,190 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Ahmed Saeed Baowazeer
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+# Ahmed Saeed Baowazeer
 
-### Flutter Developer • AI Workflow Builder • Vibe Coding Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Flutter+Developer;AI+Workflow+Engineer;Prompt+Engineering+Expert;Vibe+Coding+Specialist;Building+Smart+Apps+With+AI" />
 
-I build mobile apps with Flutter, design AI-powered workflows, and create smart systems using modern AI tools and multi-agent setups.
+<br/>
 
-I spend most of my time:
+<img src="https://img.shields.io/badge/Flutter-Developer-46C2FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Workflows-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vibe-Coding-FF4D8D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-Expert-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
 
-* Building Flutter applications
-* Designing AI agents & automation flows
-* Writing advanced prompts for AI systems
-* Improving developer workflows
-* Turning ideas into working products quickly
+</div>
 
 ---
 
-### 🧠 About Me
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```javascript
+# 💫 About Me
+
+```javascript id="nxg0fj"
 const ahmed = {
   name: "Ahmed Saeed Baowazeer",
+
   role: "Flutter Developer & AI Workflow Engineer",
 
-  languages: ["Dart", "JavaScript", "Python"],
-
-  askMeAbout: [
-    "Flutter development",
-    "AI tools",
+  passionateAbout: [
+    "Flutter apps",
+    "AI workflows",
     "Prompt engineering",
-    "Vibe coding",
-    "Multi-agent workflows",
     "Automation systems",
-    "Firebase",
-    "Mobile app architecture"
+    "Multi-agent architecture"
   ],
 
-  technologies: {
-    mobile: {
-      framework: ["Flutter"],
-      backend: ["Firebase", "Supabase"],
-      stateManagement: [
-        "Provider",
-        "Riverpod",
-        "GetX"
-      ]
-    },
+  currentlyBuilding: [
+    "AI-powered applications",
+    "Business automation systems",
+    "AI coding workflows"
+  ],
 
-    ai: {
-      tools: [
-        "OpenAI",
-        "Gemini",
-        "Claude"
-      ],
+  workingStyle: [
+    "Fast execution",
+    "Clean architecture",
+    "Practical solutions",
+    "AI-first development"
+  ],
 
-      expertise: [
-        "Prompt engineering",
-        "AI agents",
-        "Workflow automation",
-        "AI-assisted development",
-        "Agent collaboration systems",
-        "Code generation workflows"
-      ]
-    },
-
-    developmentStyle: {
-      focus: [
-        "Fast execution",
-        "Clean UI",
-        "Smart architecture",
-        "Practical solutions"
-      ],
-
-      workflow: [
-        "AI-first development",
-        "Rapid prototyping",
-        "Automation-driven coding"
-      ]
-    },
-
-    tools: [
-      "VS Code",
-      "Git",
-      "GitHub",
-      "Android Studio",
-      "OpenCode"
-    ]
+  tools: {
+    mobile: ["Flutter", "Firebase", "Supabase"],
+    ai: ["OpenAI", "Gemini", "Claude"],
+    workflow: ["OpenCode", "AI Agents"],
+    dev: ["GitHub", "VS Code"]
   },
 
-  currentFocus:
-    "Building smart AI-assisted apps and advanced multi-agent coding workflows",
 
-  funFact:
-    "Sometimes the fastest developer is the one who writes the best AI prompt 😄"
+funFact: [
+  "Good vibe coding is knowing what to automate and what to build yourself ⚡",
+
+  "The best workflows are the ones that make complex systems feel simple 🤖",
+
+  "Sometimes one smart prompt saves hours of coding 😄"
+];
+```
+
 };
 ```
 
 ---
 
-### ⚡ What I Like Building
+# 🚀 What I Build
 
-* AI-powered mobile apps
-* Smart business systems
-* Agent-based coding workflows
-* Productivity tools
-* Expense management apps
-* Automation dashboards
-* Firebase-integrated applications
-
----
-
-### 🛠### 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
-</p>
-
+✨ AI-powered mobile applications
+⚡ Smart automation systems
+🧠 AI-assisted workflows
+📱 Flutter business apps
+🔥 Firebase-integrated systems
+🤖 Multi-agent AI setups
 
 ---
 
-### 📊 GitHub Stats
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,vscode,androidstudio&theme=dark" />
+
+</div>
 
 ---
 
-### 🚀 Current Goals
+# 📊 GitHub Analytics
 
-* Building advanced AI coding systems
-* Creating production-ready Flutter apps faster
-* Designing smarter agent workflows
-* Exploring AI-native app experiences
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedbawzir12-png&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&border_radius=15&icon_color=00F0FF&title_color=00F0FF&text_color=FFFFFF"/>
 
-### 📫 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbawzir12-png&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=00F0FF&text_color=FFFFFF"/>
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+</div>
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<div align="center">
 
-> I enjoy building useful things, simplifying complicated workflows, and pushing AI tools beyond basic usage.
+<img width="95%" src="https://streak-stats.demolab.com?user=ahmedbawzir12-png&theme=radical&hide_border=true&border_radius=15&ring=00F0FF&fire=FF4D8D&currStreakLabel=00F0FF"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedbawzir12-png&theme=radical&no-frame=true&margin-w=12&margin-h=12&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbawzir12-png&bg_color=0D1117&color=00F0FF&line=FF4D8D&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Summary
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedbawzir12-png&theme=radical"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedbawzir12-png&theme=radical"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedbawzir12-png&theme=radical"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedbawzir12-png&theme=radical"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ahmedbawzir12-png">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ahmedbawzir12-png&label=Visitors&color=00F0FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedbawzir12-png&theme=radical"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Favorite Quote
+
+> "Build smart. Automate what slows you down."
+
+</div>
