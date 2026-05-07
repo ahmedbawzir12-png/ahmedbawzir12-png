@@ -53,16 +53,8 @@ const ahmed = {
     dev: ["GitHub", "VS Code"]
   },
 
-
-funFact: [
-  "Good vibe coding is knowing what to automate and what to build yourself ⚡",
-
-  "The best workflows are the ones that make complex systems feel simple 🤖",
-
-  "Sometimes one smart prompt saves hours of coding 😄"
-];
-```
-
+  funFact:
+    "Sometimes one smart prompt saves hours of coding 😄"
 };
 ```
 
