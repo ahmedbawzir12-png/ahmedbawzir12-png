@@ -21,7 +21,7 @@
 
 ```javascript id="nxg0fj"
 const ahmed = {
-  name: "Ahmed Saeed Baowazeer",
+  name: "Ahmed Saeed Bawzir",
 
   role: "Flutter Developer & AI Workflow Engineer",
 
